@@ -1,5 +1,9 @@
 # childprocess-server
 
+[![Gem Version](https://badge.fury.io/rb/childprocess-server.png)](http://badge.fury.io/rb/childprocess-server)
+[![Build Status](https://travis-ci.org/quark-zju/childprocess-server.png?branch=master)](https://travis-ci.org/quark-zju/childprocess-server)
+[![Code Climate](https://codeclimate.com/github/quark-zju/childprocess-server.png)](https://codeclimate.com/github/quark-zju/childprocess-server)
+
 Manage and interact with processes, remotely (via dRuby).
 
 ## Installation
