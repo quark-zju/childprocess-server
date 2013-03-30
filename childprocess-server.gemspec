@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name = 'childprocess-server'
-  s.version = '0.1.0'
-  s.date = Date.civil(2013,3,30)
+  s.version = '0.1.1'
+  s.date = Date.civil(2013,3,31)
   s.summary = 'Manage and interact with processes, remotely.'
   s.description = 'Manage and interact with CLI processes, remotely via dRuby.'
   s.authors = ["Wu Jun"]
