@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    childprocess-server (0.1.0)
+    childprocess-server (0.1.1)
       childprocess (~> 0.3.9)
 
 GEM
@@ -10,9 +10,9 @@ GEM
     childprocess (0.3.9)
       ffi (~> 1.0, >= 1.0.11)
     diff-lcs (1.2.1)
-    ffi (1.6.0)
-    ffi (1.6.0-java)
-    rake (10.0.3)
+    ffi (1.12.2)
+    ffi (1.12.2-java)
+    rake (12.3.3)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
@@ -29,6 +29,6 @@ PLATFORMS
 
 DEPENDENCIES
   childprocess-server!
-  rake (~> 10.0)
+  rake (~> 12.3)
   rspec (~> 2.13)
   yard (~> 0.8)
