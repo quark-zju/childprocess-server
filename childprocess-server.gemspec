@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.files = %w(LICENSE README.md Rakefile childprocess-server.gemspec)
   s.files += Dir['{lib,spec}/**/*.rb']
   s.add_dependency 'childprocess', '~> 0.3.9'
-  s.add_development_dependency 'rake', '~> 10.0'
+  s.add_development_dependency 'rake', '~> 12.3'
   s.add_development_dependency 'rspec', '~> 2.13'
   s.add_development_dependency 'yard', '~> 0.8'
   s.test_files = Dir['spec/**/*.rb']
